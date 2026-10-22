@@ -29,8 +29,20 @@ Exploratory analysis of US GDP by sector and industry from 1987 to 1997 using Mi
 
 Manufacturing led in the original 1987 grouping, while Finance led in 1992 and 1997. After computer-related industries were separated out, Finance led in 1987 as well. This is a **classification effect**, not an increase or decrease in aggregate GDP.
 
-## Workbook
-Open or download [GDP_Analysis_Completed.xlsx](GDP_Analysis_Completed.xlsx) to examine the completed Excel exercise. Screenshots are not included in the repository yet.
+## Workbook and visual previews
+Open or download [GDP_Analysis_Completed.xlsx](GDP_Analysis_Completed.xlsx) to examine the completed Excel exercise.
+
+The following **recreated SVG table previews** summarize the workbook's results (they are not literal Excel screenshots):
+
+**Percentage analysis**
+
+![GDP percentage preview](screenshots/gdp_percentage_preview.svg)
+
+**Pivot table analysis**
+
+![GDP pivot preview](screenshots/gdp_pivot_preview.svg)
+
+The original Excel screenshots can be uploaded separately if needed.
 
 See [INSIGHTS.md](INSIGHTS.md) for interpretation and [data/summary_metrics.csv](data/summary_metrics.csv) for a compact metrics table.
 
